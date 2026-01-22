@@ -1,7 +1,7 @@
 <div align="center">
 
-  <h1>Cyb
-  <span style="color:#ff2d2d;">Red</span><span style="color:rgb(0,255,255);">Sec</span>
+  <h1>
+  <span>Cyb</span><span style="color:#ff2d2d;">Red</span><span style="color:rgb(0,255,255);">Sec</span>
 </h1>
 
 
