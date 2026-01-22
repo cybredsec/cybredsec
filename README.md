@@ -76,6 +76,6 @@ An offensive security learning platform with structured labs and real-world scen
 ## 📫 Connect
 
 - **Website:** https://cybredsec.com  
-- **GitHub:** https://github.com/cybredsec
+- **GitHub:** https://github.com/cybredsec  
 
 ---
