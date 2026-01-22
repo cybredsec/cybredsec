@@ -1,77 +1,98 @@
+<div align="center">
+
 # CybredSec
 
 **Offensive Security • Mobile & Web Security • Red Team**
 
-🌐 [Website](https://cybredsec.com) • 🐙 [GitHub](https://github.com/cybredsec)
+🌐 [Website](https://cybredsec.com) · 🐙 [GitHub](https://github.com/cybredsec)
+
+</div>
 
 ---
 
 ## 🧠 About
 
-CybredSec is my personal cybersecurity workspace focused on **real-world offensive security**,  
-practical labs, and attacker-oriented analysis.
+CybredSec is a personal cybersecurity workspace focused on **real-world offensive security**,
+hands-on labs, and attacker-oriented system analysis.
 
-This profile highlights projects and expertise built from real experience —  
-not theory, not copy-paste, not CTF fluff.
+The work published here prioritizes **practical exploitation paths**, deep understanding of system internals,
+and secure design derived from how systems actually fail — not theory, not copy-paste, not CTF noise.
 
 ---
 
-## 🔴 Focus Areas
+## 🎯 Core Focus
 
 ### 📱 Mobile Security
-- Android internals & exploitation
-- IPC & sandbox analysis
-- Rooted & emulator workflows
+- Android internals & application exploitation
+- IPC, sandboxing & privilege boundaries
+- Rooted devices & emulator-based analysis
 
 ### 🌐 Web & API Security
-- OWASP Top 10 exploitation
-- Authentication & logic fuzzing
-- Secure backend design
+- OWASP Top 10 in real systems
+- Authentication & authorization flaws
+- Business logic & API abuse scenarios
 
 ### 🛠️ Reverse Engineering
 - Static & dynamic analysis
-- Binary behavior research
+- Binary and application behavior research
+- Tool-assisted and manual workflows
 
-### 🔎 Red Team Methodology
+### 🔴 Red Team Methodology
 - Attack surface mapping
 - Threat modeling
-- Realistic exploit sequences
+- End-to-end exploitation chains
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Work
 
 ### 🔐 CybredSec Learning Platform
-An offensive security learning platform with structured labs and real-world scenarios.
+A structured offensive security platform built around **real-world attack scenarios**.
+
+- Progressive labs (beginner → advanced)
+- Attacker-first mindset
+- Emphasis on *why* vulnerabilities exist, not just how to exploit them
 
 🌐 https://cybredsec.com
 
-> Labs, exercises, and attacker workflows built in a progressive structure  
-> designed to reflect real attacker behavior.
-
 ---
 
-## 🧪 Labs & Tools
+## 🧪 Labs & Projects
 
-📌 *(Repositories will be linked here as they are published)*
+> Repositories will be linked as they are published.
 
-- Android Security Labs  
-- Web Security Challenges & API Testing  
-- Reverse Engineering Examples  
+- **Android Security Labs**  
+  Exploitation-focused labs covering IPC, sandbox escapes, and app internals.
+
+- **Web & API Security Labs**  
+  Realistic vulnerabilities, auth flaws, and logic abuse scenarios.
+
+- **Reverse Engineering Examples**  
+  Binary analysis and application behavior breakdowns.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Category | Tools & Technologies |
-|--------|----------------------|
+| Area | Technologies |
+|-----|-------------|
 | Languages | Python, Bash, JavaScript, PHP |
-| Platforms | Android, Web, REST APIs |
-| Tools | Burp Suite, Frida, Ghidra |
+| Platforms | Android, Web Applications, REST APIs |
+| Security Tools | Burp Suite, Frida, Ghidra |
+| Workflow | Manual analysis, custom tooling |
 
 ---
 
-## 📫 Connect
+## 🧭 Philosophy
+
+> Security is not about tools.  
+> It’s about understanding systems the way attackers do.
+
+---
+
+## 📫 Contact
 
 - 🌐 Website: https://cybredsec.com  
-- 🐙 GitHub: https://github.com/cybredsec
+- 🐙 GitHub: https://github.com/cybredsec  
+
+---
