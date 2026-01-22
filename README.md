@@ -1,6 +1,9 @@
 <div align="center">
 
-# CybredSec
+# <h1>
+  <span style="color:#ff2d2d;">CybRed</span><span style="color:rgb(0,255,255);">Sec</span>
+</h1>
+
 
 **Offensive Security • Mobile & Web Security • Red Team**
 
