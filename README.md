@@ -1,21 +1,18 @@
-<div align="center">
-  <h1>CybredSec</h1>
-  <p>
-    <strong>Offensive Security • Mobile & Web Security • Red Team</strong>
-  </p>
-  <p>
-    <a href="https://cybredsec.com">🌐 Website</a> •
-    <a href="https://github.com/cybredsec">🐙 GitHub</a>
-  </p>
-</div>
- 
+# CybredSec
+
+**Offensive Security • Mobile & Web Security • Red Team**
+
+🌐 [Website](https://cybredsec.com) • 🐙 [GitHub](https://github.com/cybredsec)
+
 ---
 
 ## 🧠 About
 
 CybredSec is my personal cybersecurity workspace focused on **real-world offensive security**,  
-practical labs, and attacker-oriented analysis.  
-This profile highlights projects and expertise built from real experience.
+practical labs, and attacker-oriented analysis.
+
+This profile highlights projects and expertise built from real experience —  
+not theory, not copy-paste, not CTF fluff.
 
 ---
 
@@ -28,7 +25,7 @@ This profile highlights projects and expertise built from real experience.
 
 ### 🌐 Web & API Security
 - OWASP Top 10 exploitation
-- Auth & logic fuzzing
+- Authentication & logic fuzzing
 - Secure backend design
 
 ### 🛠️ Reverse Engineering
@@ -49,24 +46,25 @@ An offensive security learning platform with structured labs and real-world scen
 
 🌐 https://cybredsec.com
 
-> Labs, exercises, and attacker workflows in a progressive structure.
+> Labs, exercises, and attacker workflows built in a progressive structure  
+> designed to reflect real attacker behavior.
 
 ---
 
 ## 🧪 Labs & Tools
 
-📌 *(Add links to each repository when you create them)*
+📌 *(Repositories will be linked here as they are published)*
 
 - Android Security Labs  
 - Web Security Challenges & API Testing  
-- Reverse Engineering Examples
+- Reverse Engineering Examples  
 
 ---
 
 ## 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
-|----------|----------------------|
+|--------|----------------------|
 | Languages | Python, Bash, JavaScript, PHP |
 | Platforms | Android, Web, REST APIs |
 | Tools | Burp Suite, Frida, Ghidra |
@@ -75,7 +73,5 @@ An offensive security learning platform with structured labs and real-world scen
 
 ## 📫 Connect
 
-- **Website:** https://cybredsec.com  
-- **GitHub:** https://github.com/cybredsec  
-
----
+- 🌐 Website: https://cybredsec.com  
+- 🐙 GitHub: https://github.com/cybredsec
